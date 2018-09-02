@@ -69,7 +69,7 @@ main{width: 80%;margin: auto;}
 }
 .sliderImages{
    width:55%;
-   height: 33%; 
+   height: auto; 
    padding-top: 6%;
    padding-bottom: 5%;
    text-align: center;
@@ -201,5 +201,5 @@ li a.active {background-color: #f69454;color: white;}
 #topSec p{font-size:25PX;}
 .iframe{width:400px; padding-top:12px;height:335px;border:0}
 .imagesSecDiv{width:70%;height:auto;margin-left: auto;margin-right: auto;}
-.formSpace{font-size:16px;margin: 10px;outline-offset: 5px;}
+.formSpace{font-size:16px;margin: 10px;outline-offset: 5px;size: 50px;}
 

@@ -62,6 +62,7 @@
   }
   
   @media screen and (max-width: 600px) {
+    .imagesSmallScreen{position: fixed;overflow-x: scroll;}
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
